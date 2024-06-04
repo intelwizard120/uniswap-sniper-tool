@@ -1,4 +1,5 @@
 ## Crypto Trading Bot using VWAP
+This project is a crypto trading bot built using the VWAP (Volume Weighted Average Price) strategy for the Uniswap platform. The bot is implemented in JavaScript and runs on a Node.js server. This bot aims to help traders automate their trading strategies by leveraging VWAP to make informed trading decisions.
 
 ### Prerequisites
 
