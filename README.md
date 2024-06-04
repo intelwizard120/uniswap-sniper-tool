@@ -53,9 +53,11 @@ This project is a crypto trading bot built using the VWAP (Volume Weighted Avera
 
         $npm start
 
-        The server will start on port 5000. You can interact with the bot using WebSocket clients or through the provided web interface.
+   The server will start on port 5000. You can interact with the bot using WebSocket clients or through the provided web interface.
 
-2. WebSocket API
+   
+
+3. WebSocket API
 
     2.1. Connect
 
