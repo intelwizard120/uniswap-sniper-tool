@@ -1,16 +1,10 @@
 const data = {
-    routerAddress: "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D", // Ethereum
-    // routerAddress: "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff", // Polygon
-    DAI_ADDRESS: "0x6b175474e89094c44da98b954eedeac495271d0f", // Ethereum
-    // DAI_ADDRESS: "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063", // Polygon
-    USDT_ADDRESS: "0xdac17f958d2ee523a2206206994597c13d831ec7", // Ethereum
-    // USDT_ADDRESS: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F", // Polygon
-
-    WETH_ADDRESS: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", // Ethereum
-    // WETH_ADDRESS: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270", // Polygon
-
-    PEPE_ADDRESS: "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    BOB_ADDRESS: "0x7d8146cf21e8d7cbe46054e01588207b51198729",
+    routerAddress: "",
+    DAI_ADDRESS: "",
+    USDT_ADDRESS: "",
+    WETH_ADDRESS: "",
+    PEPE_ADDRESS: "",
+    BOB_ADDRESS: "",
     
     decimalABI: [
         {
